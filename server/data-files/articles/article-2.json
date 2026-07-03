@@ -1,0 +1,12 @@
+{
+    "head": {
+        "bgImg": "http://localhost:3001/img/5408341f-8ab0-45cf-8dac-6af8cd021874.jpg",
+        "title": "Totle 2",
+        "category": {
+            "name": "Cat 2",
+            "slug": "blog_hosting"
+        },
+        "dateCreate": "7 APRIL 2023"
+    },
+    "body": ""
+}

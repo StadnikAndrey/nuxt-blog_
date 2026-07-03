@@ -1,0 +1,34 @@
+{
+    "head": {
+        "bgImg": "blog-head-bg.jpg",
+        "title": "Title 1",
+        "category": {
+            "name": "Category name",
+            "slug": "blog_hosting"
+        },
+        "dateCreate": "9 FEB 2023"
+    },
+    "body": [
+        {
+            "type": "text",
+            "content": "<h3>Lorem</h3><p>txt txt ...</p>"
+        },
+        {
+            "type": "component",
+            "name": "Tutorial"
+        },
+        {
+            "type": "text",
+            "content": "<h3>lorem lolrem</h3><p>text article</p>"
+        },
+        {
+            "type": "component",
+            "name": "VueHorizontal",
+            "imgs": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"]             
+        },
+        {
+            "type": "img",
+            "name": "ipmi1"                       
+        }
+    ]
+}

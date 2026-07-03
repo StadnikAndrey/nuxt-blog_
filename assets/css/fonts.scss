@@ -1,0 +1,99 @@
+@font-face {
+    font-family: 'GT-Eesti-Pro-Display-Regular';
+    src: url('~/assets/fonts/gteestiprodisplay-regular.eot');
+    src: local('GT Eesti Pro Display Regular'), local('gteestiprodisplay-regular'),
+        url('~/assets/fonts/gteestiprodisplay-regular.eot?#iefix') format('embedded-opentype'),
+        url('~/assets/fonts/gteestiprodisplay-regular.woff2') format('woff2'),
+        url('~/assets/fonts/gteestiprodisplay-regular.woff') format('woff'),
+        url('~/assets/fonts/gteestiprodisplay-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GT-Eesti-Pro-Display-light';
+    src: url('~/assets/fonts/gteestiprodisplay-light.eot');
+    src: local('GT Eesti Pro Display Light'), local('gteestiprodisplay-light'),
+        url('~/assets/fonts/gteestiprodisplay-light.eot?#iefix') format('embedded-opentype'),
+        url('~/assets/fonts/gteestiprodisplay-light.woff2') format('woff2'),
+        url('~/assets/fonts/gteestiprodisplay-light.woff') format('woff'),
+        url('~/assets/fonts/gteestiprodisplay-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GT-Eesti-Pro-Text';
+    src: url('~/assets/fonts/gteestiprotext-regular.eot');
+    src: local('GT Eesti Pro Text Regular'), local('gteestiprotext-regular'),
+        url('~/assets/fonts/gteestiprotext-regular.eot?#iefix') format('embedded-opentype'),
+        url('~/assets/fonts/gteestiprotext-regular.woff2') format('woff2'),
+        url('~/assets/fonts/gteestiprotext-regular.woff') format('woff'),
+        url('~/assets/fonts/gteestiprotext-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GT-Eesti-Pro-Text-medium';
+    src: url('~/assets/fonts/gteestiprotext-medium.eot');
+    src: local('GT Eesti Pro Text Medium'), local('gteestiprotext-medium'),
+        url('~/assets/fonts/gteestiprotext-medium.eot?#iefix') format('embedded-opentype'),
+        url('~/assets/fonts/gteestiprotext-medium.woff2') format('woff2'),
+        url('~/assets/fonts/gteestiprotext-medium.woff') format('woff'),
+        url('~/assets/fonts/gteestiprotext-medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GT-Eesti-Pro-Text-light';
+    src: url('~/assets/fonts/gteestiprotext-light.eot');
+    src: local('GT Eesti Pro Text Light'), local('gteestiprotext-light'),
+        url('~/assets/fonts/gteestiprotext-light.eot?#iefix') format('embedded-opentype'),
+        url('~/assets/fonts/gteestiprotext-light.woff2') format('woff2'),
+        url('~/assets/fonts/gteestiprotext-light.woff') format('woff'),
+        url('~/assets/fonts/gteestiprotext-light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GT-Eesti-Pro-Text-UltraLight';
+    src: url('~/assets/fonts/gteestiprotext-ultralight.eot');
+    src: local('GT Eesti Pro Text UltraLight'), local('gteestiprotext-Ultralight'),
+        url('~/assets/fonts/gteestiprotext-ultralight.eot?#iefix') format('embedded-opentype'),
+        url('~/assets/fonts/gteestiprotext-ultralight.woff2') format('woff2'),
+        url('~/assets/fonts/gteestiprotext-ultralight.woff') format('woff'),
+        url('~/assets/fonts/gteestiprotext-ultralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GT-Eesti-Pro-Text-Book';
+    src: url('~/assets/fonts/gteestiprotext-book.eot');
+    src: local('GT Eesti Pro Text Book'), local('gteestiprotext-book'),
+        url('~/assets/fonts/gteestiprotext-book.eot?#iefix') format('embedded-opentype'),
+        url('~/assets/fonts/gteestiprotext-book.woff2') format('woff2'),
+        url('~/assets/fonts/gteestiprotext-book.woff') format('woff'),
+        url('~/assets/fonts/gteestiprotext-book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+} 
+
+@font-face {
+    font-family: 'Arial';
+    src: url('~/assets/fonts/ArialMT.eot');
+    src: local('Arial'), local('ArialMT'),
+        url('~/assets/fonts/ArialMT.eot?#iefix') format('embedded-opentype'),
+        url('~/assets/fonts/ArialMT.woff2') format('woff2'),
+        url('~/assets/fonts/ArialMT.woff') format('woff'),
+        url('~/assets/fonts/ArialMT.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

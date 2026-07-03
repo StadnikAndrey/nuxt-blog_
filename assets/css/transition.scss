@@ -1,0 +1,8 @@
+.transition_content-enter-active,
+.transition_content-leave-active {
+    transition: opacity .2s;
+}
+.transition_content-enter,
+.transition_content-leave-active {
+    opacity: 0;
+}

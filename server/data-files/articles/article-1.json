@@ -1,0 +1,12 @@
+{
+    "head": {
+        "bgImg": "http://localhost:3001/img/041ff418-1e44-4dd5-a71b-a04bf5227eda.jpg",
+        "title": "Title article 1",
+        "category": {
+            "name": "Category 1",
+            "slug": "category"
+        },
+        "dateCreate": "07 APRIL 2023"
+    },
+    "body": ""
+}

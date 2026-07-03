@@ -1,0 +1,12 @@
+{
+    "head": {
+        "bgImg": "article-content-img.jpg",
+        "title": "Best hosting for your web-site",
+        "category": {
+            "name": "Hosting",
+            "slug": "hosting"
+        },
+        "dateCreate": "10 FEB 2023"
+    },
+    "body": ""
+}

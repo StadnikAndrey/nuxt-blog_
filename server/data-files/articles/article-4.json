@@ -1,0 +1,12 @@
+{
+    "head": {
+        "bgImg": "http://localhost:3001/img/379b6b83-7ec7-4197-b4f1-8d30ad3f1a29.png",
+        "title": "Venus is volcanically alive, stunning new find shows",
+        "category": {
+            "name": "Science",
+            "slug": "science"
+        },
+        "dateCreate": "20 March 2023"
+    },
+    "body": ""
+}

@@ -1,0 +1,15 @@
+[
+    {
+        "txt": "Adminpanel",
+        "href": "/adminpanel"
+    },
+    {
+        "txt": "sign in",
+        "href": "/sign-in"
+    },
+    {
+        "txt": "sign up",
+        "href": "/sign-up"
+    }
+    
+]

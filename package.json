@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-blog",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-vue2": "^3.0.1",
+    "@fingerprintjs/fingerprintjs": "^3.4.0",
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.25.3",
+    "floating-vue": "^1.0.0-beta.19",
+    "himalaya": "^1.1.0",
+    "html-entities": "^2.4.0",
+    "nuxt": "^2.15.8",
+    "nuxt-highlightjs": "^1.0.3",
+    "vue": "^2.7.10",
+    "vue-horizontal": "^0.8.12",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "sass": "^1.58.0",
+    "sass-loader": "^10.4.1"
+  }
+}

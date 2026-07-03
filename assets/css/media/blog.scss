@@ -1,0 +1,33 @@
+@media screen and (max-width: 950px) {
+    .blog-top__item-bottom {
+        padding: 10px 15px;
+    }
+    .blog-top__item-bottom-head-wrap {
+        margin-bottom: 5px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .blog-top__item-subtitle {
+        display: none;
+    }
+    .blog-top__item-link{
+        margin: 0 0 0 auto;
+    }
+    .blog-top__item-bottom-main{
+        justify-content: end;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .blog-top__item{
+        width: calc(50% - 15px);
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .blog-top__item{
+        width: 100%;
+        aspect-ratio: 0;
+    }
+}

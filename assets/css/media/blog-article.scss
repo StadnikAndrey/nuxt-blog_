@@ -1,0 +1,37 @@
+@media screen and (max-width: 900px) {    
+    .article-content__inner {
+        flex-direction: column;
+    }
+    .article-content__aside {
+        width: 100%;
+        max-width: 360px;
+       margin: 0 auto;
+    }
+    .article-content__aside-top {
+        min-height: 360px;
+        padding: 20px;
+    }
+    .article-content__aside-articles {
+        padding: 20px;
+    }
+    .article-head__title-wrap{
+        flex-direction: column-reverse;
+        align-items: flex-start;
+    }     
+}
+
+@media screen and (max-width: 450px) {
+    .article-head__content {
+        max-width: 90%;
+    }
+    .article-head__icon {
+        margin-bottom: 50px;
+    }
+    .article-head__meta {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .article-head__title {
+        font-size: 27px;
+    }     
+}
