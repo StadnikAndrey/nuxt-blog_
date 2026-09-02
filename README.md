@@ -14,7 +14,7 @@ Key Features
 ### Tech Stack
 * **Framework:** Nuxt.js
 * **Rendering:** Server-Side Rendering (SSR) with Client Hydration
-* **Backend API:** Node.js, Express
+* **Backend API:** Node.js, Express, MySQL
 * **Language:** JavaScript
 * **Build Tool:** Webpack
 * **State Management:** Vuex
