@@ -13,7 +13,8 @@ A full-featured blog web application with server-side rendering (SSR), optimized
 ### Tech Stack
 * **Framework:** Nuxt.js
 * **Rendering:** Server-Side Rendering (SSR) with Client Hydration
-* **Backend API:** Node.js, Express, MySQL
+* **Backend API:** Node.js, Express
+* **Database:** MySQL
 * **Language:** JavaScript
 * **Build Tool:** Webpack
 * **State Management:** Vuex
