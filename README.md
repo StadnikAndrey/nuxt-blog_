@@ -1,8 +1,7 @@
 # Nuxt.js Blog
-
 A full-featured blog web application with server-side rendering (SSR), optimized for SEO and high performance, complemented by a secured administrative panel for comprehensive content management.
 
-Key Features
+### Key Features
 * **Server-Side Rendering (SSR) & Hydration:** Native Nuxt.js architecture ensures minimal Time to First Byte (TTFB), deep SEO optimization for search crawlers, and seamless client-side hydration.
 * **File-System Routing:** Automatic route generation based on the pages/ directory structure, including nested and dynamic routes.
 * **Administrative Panel (CRUD):** An isolated interface for managing articles and media files with route protection via Nuxt middleware.
